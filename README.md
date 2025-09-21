@@ -7,11 +7,12 @@ I started coding back in high school (2010) and jumped into the industry in 2015
 ---
 
 ### 🚀 About Me
-- 🏦 Developer in big fintech companies: Built  **core banking systems** for my country’s Central Bank and payment gateways for other service providers — where mistakes weren’t an option.  
-- 🤖 Co-founded a start-up: wrote code, managed the product as a scrum master, negotiated with investors, talked with customers, and eventually sold it (they gave me an offer I couldn’t refuse 💰🐴).  
-- 🥷 Survived other people’s start-ups too: learned how to not sleep, meet deadlines, and worship coffee.  
-- 👨‍💼 Mentored in the **LFX Mentorship Program (Hyperledger Foundation)** — basically a product manager role with scrums, backlogs, and reports.  
+- 🏦 Built **core banking systems** for the Central Bank + payment gateways for other service providers (where mistakes weren’t an option).  
+- 🤖 **Co-founded a start-up:** wrote code, ran scrums, negotiated with investors, talked to customers, and eventually sold it (they gave me an offer I couldn’t refuse 💰🐴).  
+- 🥷 Survived other people’s start-ups too: learned how to not sleep, meet deadlines, and worship coffee. 
+- 👨‍💼 Mentored in the LFX Mentorship Program (Hyperledger Foundation) — basically a product manager role with scrums, backlogs, and reports.  
 - 👨‍🏫 Certified Android development trainer — taught both beginners and intermediates.  
+- 🧑‍🎓 MSc in Computer Science, **University of Manitoba** — thesis on **post-quantum cryptography and trust models for blockchain interoperability** 👉 [Read my thesis here](https://mspace.lib.umanitoba.ca/server/api/core/bitstreams/decea942-1b50-467c-a8b3-9f0afb80b4f1/content)
 
 ---
 
@@ -23,23 +24,9 @@ I started coding back in high school (2010) and jumped into the industry in 2015
 
 ---
 
-### 🎯 Current Focus
-- 🔗 Researching **blockchain interoperability** with **post-quantum cryptography**  
-- ☁️ Building **cloud-native applications** with Spring Boot & React  
-- 🤝 Mentoring and contributing to **Hyperledger open-source projects**  
-
----
-
 ### ⚡ Fun Facts
 - *I once compared blockchain consensus to family dinners. Nobody agreed on dessert.*  
 
----
-
-### 🌐 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/KooshaKhorasani)  
-- 🧵 Always up for chatting about blockchain, backend systems, or how coffee secretly runs the tech industry.  
-
-✨ *Currently refactoring my life in Winnipeg, one commit at a time.*  
 
 
 <!--
