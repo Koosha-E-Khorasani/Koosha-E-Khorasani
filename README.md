@@ -32,9 +32,6 @@ I started coding back in high school (2010) and jumped into the industry in 2015
 
 ### ⚡ Fun Facts
 - *I once compared blockchain consensus to family dinners. Nobody agreed on dessert.*  
-- *Explained zk-SNARKs at a party… wasn’t invited back.*  
-- *My GitHub commit messages range from “fixed everything” to “???”.*  
-- *Debugging is my cardio — unfortunately, I’m always in marathon mode.*  
 
 ---
 
