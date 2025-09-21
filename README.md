@@ -7,7 +7,7 @@ I started coding back in high school (2010) and jumped into the industry in 2015
 ---
 
 ### 🚀 About Me
-- 🏦 Developer in big fintech companies: Built payment gateways and **core banking systems** for my country’s Central Bank — where mistakes weren’t an option.  
+- 🏦 Developer in big fintech companies: Built  **core banking systems** for my country’s Central Bank and payment gateways for other service providers — where mistakes weren’t an option.  
 - 🤖 Co-founded a start-up: wrote code, managed the product as a scrum master, negotiated with investors, talked with customers, and eventually sold it (they gave me an offer I couldn’t refuse 💰🐴).  
 - 🥷 Survived other people’s start-ups too: learned how to not sleep, meet deadlines, and worship coffee.  
 - 👨‍💼 Mentored in the **LFX Mentorship Program (Hyperledger Foundation)** — basically a product manager role with scrums, backlogs, and reports.  
