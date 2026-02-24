@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Koosha!
+## 👋 Hi, I’m Kenny!
 
 🧑‍💻 Developer | 🤖 Startup Co-Founder | 👨‍💼 Product Manager | 👨‍🏫 Mentor & Trainer  
 
