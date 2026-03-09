@@ -37,7 +37,7 @@ Developed a blockchain interoperability gateway designed to enable communication
 
 ---
 
-### Core Banking System — NovinKish Informatics
+### Abis Core Banking System — NovinKish Informatics
 **Backend Developer (2021–2022)**  
 Contributed to the development of a **core banking platform used by the Central Bank of Iran**, working within a microservices architecture and distributed transaction system.
 
