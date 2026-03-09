@@ -53,6 +53,14 @@ Built and maintained the backend of a tourism platform providing destination dis
 
 ---
 
+### HR Recruitment Automation System — Parsian E-Commerce
+**Backend Developer (2019–2020)**  
+Designed and developed a web-based platform to streamline and automate HR recruitment and hiring workflows, including candidate tracking, evaluation processes, and hiring pipeline management.
+
+**Technologies:** Spring Boot, PostgreSQL, Docker, HTML, CSS, jQuery
+
+---
+
 ### Pido Pay
 **Android Payment System for Petrol Stations (2019)**  
 Developed an Android application deployed on fuel station terminals that connects to payment devices, calculates usage costs, and sends operational logs to the central server.
