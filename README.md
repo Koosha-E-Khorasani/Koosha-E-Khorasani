@@ -43,7 +43,7 @@ Agile • Git • Jira • Jenkins (CI/CD) • Confluence
 
 ## 📌 Featured Projects
 
-### [PQ-NS-IOP](#)
+### [PQ-NS-IOP](https://github.com/tcdt-lab/PQ-NS-IOP)
 **Post-Quantum Notary Scheme for Blockchain Interoperability — Master’s Thesis (2025)**  
 Designed a relay-based bridge enabling interoperability between two blockchain networks using a notary scheme architecture and post-quantum cryptography.  
 
@@ -51,7 +51,7 @@ Designed a relay-based bridge enabling interoperability between two blockchain n
 
 ---
 
-### [Automated Gateways](#)
+### [Automated Gateways](https://github.com/tcdt-lab/Automated-Gateways)
 **Linux Foundation LFX Mentorship Program Project (2023)**  
 Developed a blockchain interoperability gateway designed to enable communication between heterogeneous blockchain networks as part of the Linux Foundation Decentralized Lab mentorship program.  
 
