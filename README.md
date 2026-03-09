@@ -19,28 +19,6 @@ I started coding in high school in **2010** and entered the industry in **2015**
 
 ---
 
-## 🧰 Technical Skills
-
-### Languages
-Java • Go • Python • Bash • SQL • JavaScript • HTML • CSS
-
-### Frameworks & Tools
-Spring Boot • Hibernate • Apache Kafka • Maven • Android SDK • JUnit • Spring Test • ELK Stack
-
-### Databases
-MySQL • PostgreSQL • Redis • DynamoDB
-
-### Cloud & DevOps
-AWS (SAM, EC2, S3, API Gateway, Lambda, DynamoDB) • Docker • Terraform
-
-### AI Development Tools
-GitHub Copilot • OpenAI Codex
-
-### Collaboration & Workflow
-Agile • Git • Jira • Jenkins (CI/CD) • Confluence
-
----
-
 ## 📌 Featured Projects
 
 ### [PQ-NS-IOP](https://github.com/tcdt-lab/PQ-NS-IOP)
@@ -96,6 +74,30 @@ Developed an Android library enabling third-party applications to integrate NFC-
 Developed a cross-platform mobile payment library used by **over one million users**, simplifying payment regulation integration for mobile applications.
 
 **Technologies:** Android SDK, iOS SDK
+
+---
+
+## 🧰 Technical Skills
+
+### Languages
+Java • Go • Python • Bash • SQL • JavaScript • HTML • CSS
+
+### Frameworks & Tools
+Spring Boot • Hibernate • Apache Kafka • Maven • Android SDK • JUnit • Spring Test • ELK Stack
+
+### Databases
+MySQL • PostgreSQL • Redis • DynamoDB
+
+### Cloud & DevOps
+AWS (SAM, EC2, S3, API Gateway, Lambda, DynamoDB) • Docker • Terraform
+
+### AI Development Tools
+GitHub Copilot • OpenAI Codex
+
+### Collaboration & Workflow
+Agile • Git • Jira • Jenkins (CI/CD) • Confluence
+
+---
 
 
 <!--
