@@ -46,7 +46,7 @@ Contributed to the development of a **core banking platform used by the Central 
 ---
 
 ### Tagino
-**Co-Founder & Backend Developer (2017–2021)**  
+**Co-Founder & Backend Developer (2018–2021)**  
 Built and maintained the backend of a tourism platform providing destination discovery and travel services. Designed and implemented the microservices infrastructure.
 
 **Technologies:** Spring Boot, Python, PostgreSQL, Redis, Kafka, Microservices
