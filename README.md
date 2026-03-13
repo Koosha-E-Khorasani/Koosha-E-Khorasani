@@ -37,54 +37,6 @@ Developed a blockchain interoperability gateway designed to enable communication
 
 ---
 
-### Abis Core Banking System — NovinKish Informatics
-**Backend Developer (2021–2022)**  
-Contributed to the development of a **core banking platform used by the Central Bank of Iran**, working within a microservices architecture and distributed transaction system.
-
-**Technologies:** Java, Spring Boot, Oracle, Docker, Kafka, JUnit, Microservices Architecture
-
----
-
-### Tagino
-**Co-Founder & Backend Developer (2018–2021)**  
-Built and maintained the backend of a tourism platform providing destination discovery and travel services. Designed and implemented the microservices infrastructure.
-
-**Technologies:** Spring Boot, Python, PostgreSQL, Redis, Kafka, Microservices
-
----
-
-### HR Recruitment Automation System — Parsian E-Commerce
-**Backend Developer (2019–2020)**  
-Designed and developed a web-based platform to streamline and automate HR recruitment and hiring workflows, including candidate tracking, evaluation processes, and hiring pipeline management.
-
-**Technologies:** Spring Boot, PostgreSQL, Docker, HTML, CSS, jQuery
-
----
-
-### Pido Pay
-**Android Payment System for Petrol Stations (2019)**  
-Developed an Android application deployed on fuel station terminals that connects to payment devices, calculates usage costs, and sends operational logs to the central server.
-
-**Technologies:** Android SDK
-
----
-
-### Pecco NFC Payment Library
-**Android NFC Payment Library (2018)**  
-Developed an Android library enabling third-party applications to integrate NFC-based payment functionality.
-
-**Technologies:** Android SDK
-
----
-
-### Pecco MPL
-**Mobile Payment Library (Android & iOS) (2017)**  
-Developed a cross-platform mobile payment library used by **over one million users**, simplifying payment regulation integration for mobile applications.
-
-**Technologies:** Android SDK, iOS SDK
-
----
-
 ## 🧰 Technical Skills
 
 ### Languages
