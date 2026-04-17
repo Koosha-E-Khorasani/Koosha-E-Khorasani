@@ -2,7 +2,6 @@
 
 🧑‍💻 Backend Developer | 🤖 Startup Co-Founder | 👨‍🏫 Mentor & Trainer  
 
-I started coding in high school in **2010** and entered the industry in **2015** while still completing my BSc. Since then, I’ve worked across different roles in the tech ecosystem — developer, startup co-founder, and mentor.
 
 ---
 
