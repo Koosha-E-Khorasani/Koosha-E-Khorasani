@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- Backend developer specializing in **Java (Spring Boot), Go, and Python**, focused on building reliable and scalable backend systems.  
+- Backend developer specializing in building reliable and scalable backend systems.  
 - **Startup co-founder:** led backend development, ran Scrum processes, communicated with investors and customers, and helped grow the company until its acquisition.  
 - Experience working in fast-paced startup environments, delivering production systems under tight deadlines.  
 - **Mentor in the Linux Foundation LFX Mentorship Program (Hyperledger Foundation)** — responsible for planning development tasks, managing backlogs, and coordinating progress with contributors.  
