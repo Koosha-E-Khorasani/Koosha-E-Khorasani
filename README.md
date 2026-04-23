@@ -34,29 +34,6 @@ Developed a blockchain interoperability gateway designed to enable communication
 
 **Technologies:** Go, gRPC, Redis, Post-Quantum Cryptography, MySQL, Solidity, Geth, Hyperledger Fabric
 
----
-
-## 🧰 Technical Skills
-
-### Languages
-Java • Go • Python • Bash • SQL • JavaScript • HTML • CSS
-
-### Frameworks & Tools
-Spring Boot • Hibernate • Apache Kafka • Maven • Android SDK • JUnit • Spring Test • ELK Stack
-
-### Databases
-MySQL • PostgreSQL • Redis • DynamoDB
-
-### Cloud & DevOps
-AWS (SAM, EC2, S3, API Gateway, Lambda, DynamoDB) • Docker • Terraform
-
-### AI Development Tools
-GitHub Copilot • OpenAI Codex
-
-### Collaboration & Workflow
-Agile • Git • Jira • Jenkins (CI/CD) • Confluence
-
----
 
 
 <!--
